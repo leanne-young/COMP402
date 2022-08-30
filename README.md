@@ -54,6 +54,6 @@ Code that controls and automates the experimental apparatus (delivery disk and f
 3D design of a spherical 1.5 mm diameter marker with a circular base for 3D printing.
 
 ### Hemispherical.stl
-3D design of a hemispherical 1.5 mm diameter marker for 3D printing.
+3D design of a hemispherical 1.5 mm diameter marker for 3D printing. The design itself is not hemispherical since due to its small size, the print comes out as hemispherical.
 
 
