@@ -2,6 +2,7 @@
 Honors Project in Computer Science &amp; Biology
 
 This repository houses all the code and other files that were a part of my project.
+_________________________________________
 
 ## 2D Analysis (DLC)
 
@@ -25,6 +26,7 @@ Plots the X and Y coordinates separately over time (in frames). Modeled after th
 
 ### 2D_Distance.py
 Calculates the distances between the paws (both right and left hands) and the pellet during one extracted reaching movement, and plots them over time.
+_________________________________________
 
 ## 3D Analysis (OptiTrack)
 All code files below include trial isolation and reach detection to extract relevant datapoints.
@@ -41,6 +43,7 @@ Calculates the average velocities between each datapoint in one extracted reachi
 ### 3D_Acceleration.py
 Calculates the acceleration between each datapoint in one extract reaching movement and plots them over time.
 
+_________________________________________
 
 ## Other Code & Files
 
